@@ -17,3 +17,11 @@ this...
 ```
 
 is better to read I think.
+
+## Predefined css rules
+<br><br>
+
+#### Margins in pixels
+* margin-0
+... to
+* margin-50
