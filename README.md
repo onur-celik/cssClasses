@@ -3,17 +3,17 @@
 ## onurcelik@me.com 
 
 instead of this...
-<pre>
+<code>
     <div style="margin-top:30px; padding:10px; overflow:auto; ">
         <!-- some content -->
     </div>
-</pre>
+</code>
 
 this...
-<pre>
+<code>
     <div class="margin-top-30 padding-10 overflow-auto">
         <!-- some content -->
     </div>
-</pre>
+</code>
 
 is better to read I think.
