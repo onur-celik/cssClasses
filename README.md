@@ -48,3 +48,56 @@ is better to read I think.
 <br>
 ... to
 * margin-bottom-50
+
+
+#### Margin-lefts in pixels
+* margin-left-0
+<br>
+... to
+* margin-left-50
+
+<hr>
+
+#### Paddings in pixels
+* padding-0
+<br>
+... to
+* padding-50
+
+
+#### Padding-tops in pixels
+* padding-top-0
+<br>
+... to
+* padding-top-50
+
+
+#### Padding-rights in pixels
+* padding-right-0
+<br>
+... to
+* padding-right-50
+
+
+#### Padding-bottoms in pixels
+* padding-bottom-0
+<br>
+... to
+* padding-bottom-50
+
+
+#### Padding-lefts in pixels
+* padding-left-0
+<br>
+... to
+* padding-left-50
+
+<hr>
+
+#### Border-Radius in pixes
+* borderRadius-0
+<br>
+... to
+* borderRadius-50
+
+
