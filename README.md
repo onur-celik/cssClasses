@@ -128,5 +128,9 @@ is better to read I think.
 * max-with-100
 * max-with-50
 
+<br>
+<hr>
+That's it for now. Do not hesitate to send pull reqs for additional classes :)
+
 
 
