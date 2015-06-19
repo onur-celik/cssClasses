@@ -100,4 +100,33 @@ is better to read I think.
 ... to
 * borderRadius-50
 
+<hr>
+
+#### Overflows
+* overflow-auto
+* overflow-hidden
+<br>
+* overflow-y-hidden
+* overflow-y-scroll
+<br>
+* overflow-x-hidden
+* overflow-x-scroll
+
+<hr>
+
+### Widths in percents
+* width-10
+* width-20
+* width-30
+<br>
+... to
+* with-100
+
+<hr>
+
+### Max-Widths in percents
+* max-with-100
+* max-with-50
+
+
 
