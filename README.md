@@ -120,13 +120,19 @@ is better to read I think.
 * width-30
 <br>
 ... to
-* with-100
+* width-100
 
 <hr>
 
 ### Max-Widths in percents
-* max-with-100
-* max-with-50
+* maxWidth-100
+* maxWidth-50
+
+<hr>
+
+### Min-Heights in percents
+* minHeight-100
+
 
 <br>
 <hr>
