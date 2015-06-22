@@ -133,6 +133,10 @@ is better to read I think.
 ### Min-Heights in percents
 * minHeight-100
 
+<hr>
+
+### Max-Heights in percents
+* maxHeight-100
 
 <br>
 <hr>
