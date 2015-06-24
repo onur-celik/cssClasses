@@ -105,6 +105,7 @@ is better to read I think.
 #### Overflows
 * overflow-auto
 * overflow-hidden
+* overflow-scroll
 <br>
 * overflow-y-auto
 * overflow-y-hidden
